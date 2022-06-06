@@ -42,10 +42,6 @@ if (!str_contains($logs, $dadosvendedor)) {
     $firenologgec = mysqli_query($conn,$nologged);
  */
    
-  ?> <script> window.alert("Dont know who are you!");
-  window.location.href='logout.php'; </script> <?php
-   die();
-   
 }
 
    
