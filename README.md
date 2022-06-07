@@ -38,35 +38,24 @@
   <img src="https://github.com/xychaann/xychaann/blob/master/thuychaang.gif" />
 </p>
 
+------
 ### Example Server---|
 
-<p align="center">
-    <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Example+Server+01"
-            alt="XyChann`"
-        />
-    </a>
-</p>
-
+❏  ```Example Server 01```
 <p align="center">
   <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://e.top4top.io/p_23485j55y9.jpg" />
 </p>
 
------
+------
 
-<p align="center">
-    <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Example+Server+02"
-            alt="XyChann`"
-        />
-    </a>
-</p>
+### Example Server---|
 
+❏  ```Example Server 02```
 <p align="center">
   <a href="https://github.com/xychaann/Android-Login-PSTeam-Java"><img src="https://k.top4top.io/p_2348yqezr9.jpg" />
 </p>
+
+------
 
 # Thanks To
 - [Hyupai](https://github.com/hyupai)
